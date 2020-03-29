@@ -5,7 +5,7 @@
   "author": "王天伦 <810394177@qq.com>",
   "homepage": "",
   "license": "MIT",
-  "main": "lib/umi.js",
+  "main": "lib/index.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -23,5 +23,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "3c056e66507017f91d271e3a58b90c91a38bf9fe"
+  "gitHead": "6f54c5cd6c0f9b3f97c0de5489a8d17c4c1912e1"
 }
