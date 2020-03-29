@@ -3,6 +3,11 @@
     "packages/*"
   ],
   "npmClient": "yarn",
+  "command": {
+    "publish": {
+      "registry": "https://registry.npmjs.org/"
+    }
+  },
   "useWorkspaces": true,
   "version": "0.0.3"
 }
