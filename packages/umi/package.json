@@ -4,7 +4,7 @@
   "description": "> TODO: description",
   "author": "王天伦 <810394177@qq.com>",
   "homepage": "",
-  "license": "ISC",
+  "license": "MIT",
   "main": "lib/umi.js",
   "directories": {
     "lib": "lib",
@@ -23,5 +23,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "6c4784a9c2d5ea808ddd9bb5a36f9d3e33f518ee"
+  "gitHead": "4877ad4dd4b81c9ba9feb6ed2beec40453286645"
 }
