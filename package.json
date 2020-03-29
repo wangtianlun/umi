@@ -1,0 +1,17 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.20.2",
+    "father-build": "^1.17.2",
+    "@babel/core": "7.8.7",
+    "@types/node": "^13.9.3"
+  },
+  "scripts": {
+    "bootstrap": "node ./scripts/bootstrap.js",
+    "build": "father-build"
+  }
+}
