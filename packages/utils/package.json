@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npm.taobao.org/"
+    "registry": "public"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
@@ -24,5 +24,6 @@
     "@types/yargs-parser": "15.0.0",
     "yargs": "15.3.1",
     "yargs-parser": "18.1.1"
-  }
+  },
+  "gitHead": "df2027b37fc98a371935cbf39132a1574346c929"
 }
