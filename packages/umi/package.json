@@ -1,5 +1,5 @@
 {
-  "name": "@wtl/umi",
+  "name": "wtl-umi",
   "version": "0.0.13",
   "description": "> TODO: description",
   "author": "王天伦 <810394177@qq.com>",
@@ -23,5 +23,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "9ca5ab1f22d2ed370a008709aff5883b845f4595"
+  "gitHead": "78aadb5bb236103688713bd4709d52ee363a0194"
 }
