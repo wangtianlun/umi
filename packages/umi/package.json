@@ -18,10 +18,10 @@
     "resolve-cwd": "3.0.0"
   },
   "publishConfig": {
-    "registry": "public"
+    "access": "public"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "df2027b37fc98a371935cbf39132a1574346c929"
+  "gitHead": "68d781912b344673436208f6c348efc158cc0f25"
 }
